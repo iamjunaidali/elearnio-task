@@ -18,6 +18,8 @@ System Dependencies:
     + `rails db:setup db:migrate`
 4. Populate Data
     + `rails db:seed`
+
+
 **Running the Rails Server**
 
  - rails s
